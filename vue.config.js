@@ -1,4 +1,5 @@
 // vue.config.js
 module.exports = {
-    runtimeCompiler: true
+    runtimeCompiler: true,
+    publicPath: '/acme-corp-app/'
 };

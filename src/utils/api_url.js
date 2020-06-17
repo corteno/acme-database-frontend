@@ -1,4 +1,4 @@
-export const API_ROOT_URL = "https://acme-corp-database.herokuapp.com/";
+export const API_ROOT_URL = "https://acme-corp-database.herokuapp.com";
 export const API_LOGIN_ENDPOINT = "/login";
 export const API_REGISTER_ENDPOINT = "/register";
 export const API_UPLOAD_XLS_ENDPOINT = '/upload';
